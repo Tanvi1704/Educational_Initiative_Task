@@ -5,12 +5,6 @@
 
 This project demonstrates the implementation of various design patterns in software development. The focus is on the **Behavioral**, **Creational**, and **Structural** design pattern categories. Additionally, **Exercise 2** showcases practical applications of these design patterns, where one task has been completed successfully.
 
-## Patterns Implemented
-
----
-
-**Overview**
-
 
 ### Exercise 1 : Patterns Implemented:
 1. **Behavioral Pattern**:  
