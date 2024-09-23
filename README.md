@@ -1,6 +1,5 @@
 ﻿# Educational_Initiative_Task
 
-# Design Patterns Project
 
 ## Overview
 
@@ -8,17 +7,12 @@ This project demonstrates the implementation of various design patterns in softw
 
 ## Patterns Implemented
 
-Here's the `README` in plain text form with proper formatting:
-
 ---
-
-# Smart Home System Project
 
 **Overview**
 
-This project implements a **Smart Home System Simulation**, allowing the user to control different smart devices (lights, thermostats, door locks) via a central hub. The system utilizes various design patterns to ensure modularity, flexibility, and robust functionality.
 
-### Key Patterns Implemented:
+### Exercise 1 : Patterns Implemented:
 1. **Behavioral Pattern**:  
    - **State Pattern**: Manages the state of different smart devices.  
    - **Strategy Pattern**: Defines different strategies for controlling devices (manual control, scheduling, automation).  
@@ -33,7 +27,7 @@ This project implements a **Smart Home System Simulation**, allowing the user to
 
 ---
 
-## Exercise 2: Smart Home System Programming
+## Exercise 2 : Smart Home System Programming:
 
 In **Exercise 2**, I have completed **Task No. 4** which involves developing a **Smart Home System Simulation** with the following features:
 
