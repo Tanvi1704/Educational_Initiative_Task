@@ -98,4 +98,19 @@ Create a simulation for a **Smart Home System** that allows the user to control 
 
 ---
 
+## Here are the basic steps on how to open and navigate the project structure:
+
+1. **Open the Project**:
+   - Navigate to the project directory in your preferred IDE (e.g., IntelliJ, Eclipse).
+
+2. **Locate the Source Files**:
+   - Open the folder `src/main/java/org/example/`. This directory contains the source code for both Exercise 1 and Exercise 2.
+
+3. **Exercise 1**:
+   - Inside the `org/example/Exercise1` , locate the folder or file related to **Exercise 1**.
+
+4. **Exercise 2**:
+   - Inside the `org/example/Exercise2` , locate the folder or file related to **Exercise 2**.
+
+
 
