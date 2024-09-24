@@ -83,7 +83,7 @@ Create a simulation for a **Smart Home System** that allows the user to control 
 
 ---
 
-## Evaluation Criteria:
+### Evaluation Criteria:
 
 1. **Code Quality**:  
    - Follows best practices, SOLID principles, and effective use of design patterns.
@@ -98,7 +98,7 @@ Create a simulation for a **Smart Home System** that allows the user to control 
 
 ---
 
-## Here are the basic steps on how to open and navigate the project structure:
+### Here are the basic steps on how to open and navigate the project structure:
 
 1. **Open the Project**:
    - Navigate to the project directory in your preferred IDE (e.g., IntelliJ, Eclipse).
